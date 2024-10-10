@@ -1,0 +1,13 @@
+.display{
+  margin: 10px;
+  width: 280px;
+  font-size: 35px;
+  border-color: red;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: right;
+  background-color: rgb(45, 41, 41);
+  color: #ffffff;
+  box-shadow: 0 4px 8px rgba(131, 132, 129, 0.3);
+}

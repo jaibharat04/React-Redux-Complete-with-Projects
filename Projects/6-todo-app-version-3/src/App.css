@@ -1,0 +1,14 @@
+input {
+  width: 100%;
+}
+
+
+.todorow {
+  margin: 15px 5px;
+  font-size: 20px;
+}
+
+.jb-btn{
+  min-width: 195px;
+
+}

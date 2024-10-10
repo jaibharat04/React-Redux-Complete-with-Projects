@@ -1,0 +1,9 @@
+.item{
+  color: red;
+  background-color: rgb(151, 241, 184);
+  margin-bottom: 10px;
+}
+
+.button{
+  float: right;
+}
